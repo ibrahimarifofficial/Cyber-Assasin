@@ -29,6 +29,14 @@ const nextConfig = {
   // Optimize production builds
   swcMinify: true,
   
+  // Webpack configuration for CSS imports
+  webpack: (config) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+    }
+    return config
+  },
+  
   // Headers for caching and performance
   async headers() {
     return [
