@@ -1,27 +1,3 @@
-/* Import all CSS files */
+/* Import fonts */
 @import './fonts.css';
-@import '../css/variables.css';
-@import '../css/global-background.css';
-@import '../css/responsive.css';
-@import '../css/shimmer-text.css';
-@import '../css/header.css';
-@import '../css/hero.css';
-@import '../css/floating-cards.css';
-@import '../css/infinite-slider.css';
-@import '../css/about.css';
-@import '../css/real-world-services.css';
-@import '../css/services.css';
-@import '../css/why-choose-us.css';
-@import '../css/cta.css';
-@import '../css/features.css';
-@import '../css/stats.css';
-@import '../css/testimonials.css';
-@import '../css/faq.css';
-@import '../css/work-with-us.css';
-@import '../css/final-cta.css';
-@import '../css/footer.css';
-@import '../css/contact-modal.css';
-@import '../css/legal-modal.css';
-@import '../css/back-to-top.css';
-@import '../css/contact-hero.css';
 
